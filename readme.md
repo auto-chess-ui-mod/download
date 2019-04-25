@@ -28,9 +28,9 @@ I will remove the download links if the DAC developers request me to do so.
 You can install the mod following these steps:  
 
 1. Download the version with the modifications you want:  
-a. [Full version](#): *Gold to level up + PVE Warning + Draw probabilities*   
-b. [Lite version](#): *Gold to level up + PVE Warning*   
-c. [Full version + Tier indicator](#) (Tiers from [qihl.gg tier list](https://qihl.gg/tierlist))
+a. [Full version](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/full/pak01_dir.vpk): *Gold to level up + PVE Warning + Draw probabilities*   
+b. [Lite version](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/lite/pak01_dir.vpk): *Gold to level up + PVE Warning*   
+c. [Full version + Tier indicator](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/full_tier/pak01_dir.vpk) (Tiers from [qihl.gg tier list](https://qihl.gg/tierlist))
 
 2. Find your Dota 2 installation directory  
    *For example:* `D:\Steam\steamapps\common\dota 2 beta`
