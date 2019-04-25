@@ -21,6 +21,8 @@ In my interpretation, this UI mod falls under the category of "Cosmetic UI mods"
 
 I will remove the download links if the DAC developers request me to do so. 
 
+**Note:** the `lite` version of the mod does not include any of the code relating to the draw probabilities, so it is on the safer side (I guess). 
+
 ## Instructions + download links
 
 You can install the mod following these steps:  
@@ -28,7 +30,7 @@ You can install the mod following these steps:
 1. Download the version with the modifications you want:  
 a. [Full version](#): *Gold to level up + PVE Warning + Draw probabilities*   
 b. [Lite version](#): *Gold to level up + PVE Warning*   
-c. [Full version + Tier indicator](#) 
+c. [Full version + Tier indicator](#) (Tiers from [qihl.gg tier list](https://qihl.gg/tierlist))
 
 2. Find your Dota 2 installation directory  
    *For example:* `D:\Steam\steamapps\common\dota 2 beta`
