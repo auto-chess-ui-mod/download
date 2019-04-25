@@ -40,7 +40,7 @@ c. [Full version + Tier indicator](#)
 
 6. Modify the `gameinfo.gi` file by adding the following two lines:
 
-![](https://github.com/auto-chess-ui-mod/download/raw/master/modify_gameinfo.PNG)
+![](https://github.com/auto-chess-ui-mod/download/raw/master/images/modify_gameinfo.PNG)
 
 **Two notes:**  
 a. The positioning of the lines is important  
