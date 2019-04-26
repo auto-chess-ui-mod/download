@@ -28,15 +28,15 @@
 
 你可以遵循以下步骤安装这个 MOD：
 
-1. 下载你需要的版本：
-a. [完全版](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/full/pak01_dir.vpk)：*升级金币提示、打野提示、抽取概率*
-b. [精简版](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/lite/pak01_dir.vpk)：*升级金币提示、打野提示*
-c. [完全版 + 棋子强度评级提示](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/full_tier/pak01_dir.vpk)（强度评级基于 [qihl.gg 强度列表](https://qihl.gg/tierlist)）
+1. 下载你需要的版本：  
+a. [完全版](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/full/pak01_dir.vpk)：*升级金币提示、打野提示、抽取概率*  
+b. [精简版](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/lite/pak01_dir.vpk)：*升级金币提示、打野提示*  
+c. [完全版 + 棋子强度评级提示](https://github.com/auto-chess-ui-mod/download/raw/master/vpk/full_tier/pak01_dir.vpk)（强度评级基于 [qihl.gg 强度列表](https://qihl.gg/tierlist)）  
 
-2. 找到你的 Dota 2 安装文件夹
+2. 找到你的 Dota 2 安装文件夹  
    *例如：* `D:\Steam\steamapps\common\dota 2 beta`
 
-3. 在 `game` 文件夹内，新建一个 `custom_dac_ui` 文件夹
+3. 在 `game` 文件夹内，新建一个 `custom_dac_ui` 文件夹  
    *例如：* `D:\Steam\steamapps\common\dota 2 beta\game\custom_dac_ui`
 
 4. 将你在第 1 步中下载的 `pak01_dir.vpk` 文件拷贝到 `custom_dac_ui` 文件夹内
