@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  This UI mod for Dota 2 Auto Chess adds several QoL improvements to the UI. <br>
-  这个 UI MOD 提升了刀塔自走棋的用户体验。([点击这里](https://github.com/auto-chess-ui-mod/download/blob/master/readme_cn.md)) <br><br>
+  This UI mod for Dota 2 Auto Chess adds several QoL improvements to the UI. <br><br>  
+  这个 UI MOD 提升了刀塔自走棋的用户体验。(<a href="https://github.com/auto-chess-ui-mod/download/blob/master/readme_cn.md">点击这里</a>) <br><br>
   
 [点击这里](https://github.com/auto-chess-ui-mod/download/blob/master/readme_cn.md)
   <span><strong>Source code: </strong><a href="https://github.com/auto-chess-ui-mod/source ">repository </a></span><br>
