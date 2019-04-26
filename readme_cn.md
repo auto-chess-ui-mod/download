@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/auto-chess-ui-mod/download/raw/master/images/banner_img_cn.PNG" alt="UI Mod for Dota 2 Auto Chess" title="UI Mod for Dota 2 Auto Chess" />
+   <img src="https://github.com/auto-chess-ui-mod/download/raw/master/images/banner_img_cn.jpg" alt="UI Mod for Dota 2 Auto Chess" title="UI Mod for Dota 2 Auto Chess" />
 </h1>
 <p align="center">  
  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
@@ -45,7 +45,7 @@ c. [完全版 + 棋子强度评级提示](https://github.com/auto-chess-ui-mod/d
 
 6. 如下图在 `gameinfo.gi` 中添加两行内容
 
-![](https://github.com/auto-chess-ui-mod/download/raw/master/images/modify_gameinfo_cn.PNG)
+![](https://github.com/auto-chess-ui-mod/download/raw/master/images/modify_gameinfo_cn.jpg)
 
 **请注意两点：**
 
