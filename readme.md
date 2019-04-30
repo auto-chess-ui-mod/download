@@ -9,12 +9,13 @@
 
 <p align="center">
   This UI mod for Dota 2 Auto Chess adds several QoL improvements to the UI. <br><br>  
-  这个 UI MOD 提升了刀塔自走棋的用户体验。(<a href="https://github.com/auto-chess-ui-mod/download/blob/master/readme_cn.md">点击这里</a>) <br><br>
-  
-  <span><strong>Source code: </strong><a href="https://github.com/auto-chess-ui-mod/source ">repository </a></span><br>
-  <span><strong>Generator: </strong><a href="https://github.com/auto-chess-ui-mod/generator">repository</a></span><br><br>
-  <span><strong>Change log: </strong><a href="https://github.com/auto-chess-ui-mod/source/blob/master/changelog.md">changelog.md</a></span>
+  这个 UI MOD 提升了刀塔自走棋的用户体验。(<a href="https://github.com/auto-chess-ui-mod/download/blob/master/readme_cn.md">点击这里</a>) <br><br>  
+  <span><strong>Source code: </strong><a href="https://github.com/auto-chess-ui-mod/source ">repository </a></span><br>  
+  <span><strong>Generator: </strong><a href="https://github.com/auto-chess-ui-mod/generator">repository</a></span><br><br>  
+  <span><strong>Change log: </strong><a href="https://github.com/auto-chess-ui-mod/source/blob/master/changelog.md">changelog.md</a></span>  
 </p>
+
+<h2>Latest update: 30-4-2019 ([Changelog](https://github.com/auto-chess-ui-mod/source/blob/master/changelog.md)</h2>
 
 ## Disclaimer
 
