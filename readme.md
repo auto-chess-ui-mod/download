@@ -15,7 +15,7 @@
   <span><strong>Change log: </strong><a href="https://github.com/auto-chess-ui-mod/source/blob/master/changelog.md">changelog.md</a></span>  
 </p>
 
-<h2>Latest update: 30-4-2019 ([Changelog](https://github.com/auto-chess-ui-mod/source/blob/master/changelog.md)</h2>
+<h2>Latest update: 30-4-2019 (<a href="https://github.com/auto-chess-ui-mod/source/blob/master/changelog.md">Changelog</a>)</h2>
 
 ## Disclaimer
 
